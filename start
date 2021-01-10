@@ -1,0 +1,3 @@
+#启动脚本，wine来启动服务端，没什么好说的
+cd ~/tcserver
+wine TerraCraftServer.exe

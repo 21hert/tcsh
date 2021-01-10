@@ -1,0 +1,11 @@
+#安置/更新服务端文件脚本
+
+#删除相关旧文件
+rm -r ~/tcserver
+#创建相关文件夹
+mkdir ~/tcserver;cd ~/tcserver
+#下载服务端
+wget -O TerraCraft.rar https://vik.coding.net/p/ki/d/ki/git/raw/master/TerraCraft_PreAlpha_1_0_2_1.rar
+#解压并删除压缩包
+rar x TerraCraft.rar;rm TerraCraft.rar
+cd ~

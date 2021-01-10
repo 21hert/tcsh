@@ -1,0 +1,9 @@
+#此处为基本软件安装与运行库设置脚本
+
+#更新源
+sudo apt update -y
+
+echo -e "安装基本软件wget rar screen git p7zip wine"
+sudo apt install wget rar screen git p7zip wine -y
+echo -e "调用服务端安置脚本"
+bash ~/tcsh/tc-go
