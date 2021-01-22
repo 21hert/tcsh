@@ -1,3 +1,5 @@
+<link rel="shortcut icon" href="https://s3.ax1x.com/2021/01/03/s9zy9K.jpg">
+<title>TCSH</title>
 ## tcsh一键开服脚本
 
 √ Git clone,git pull
