@@ -1,4 +1,4 @@
-## tcsh一键开服脚本测试版
+## tcsh一键开服脚本
 
 √ Git clone,git pull
 
