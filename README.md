@@ -16,7 +16,7 @@ sudo apt install git
 
 3.克隆脚本仓库
 
-git clone https://github.com.cnpmjs.org/21hert/tcsh.git tcsh
+git clone https://github.com.cnpmjs.org/dlcnx/tcsh.git tcsh
 
 4.运行快捷命令设置脚本,并使之立刻生效
 
